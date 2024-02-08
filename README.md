@@ -6,9 +6,14 @@ Saya bertanggung jawab untuk mempersiapkan semua kebutuhan IT di PBPL. Berikut c
 
 ## [Review dan penambahan beberapa fitur](addition_comp.pdf)
 Pada tahap ini, saya melakukan review dan mencoba meminta beberapa fitur tambahan karena kebutuhan untuk perusahaan.
-## Membeli SSL
+![](images/customer.png)
+
+## Mengelola Domain dan SSL
 Untuk kemamanan website, saya melakukan pembelian SSL sesuai standar perusahaan dan melakukan penginstallan pada company profile.
 SSL yang digunakan adalah Wildcard SSL yang harus diperpanjang setiap setahun sekali.
+
+## Company Profile
+![](images/companyprofile.png)
 
 
 
